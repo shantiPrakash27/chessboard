@@ -1,2 +1,2 @@
 # chessboard
-makingg chesss board using css grid box
+made chesss board using css grid box
